@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salonifojdar27&label=Profile%20views&color=0e75b6&style=flat" alt="salonifojdar27" /> </p>
 
----
 
-<h2>💡 About Me:</h2>
+
+<h2 style="border-bottom:none; margin-bottom:0; padding-bottom:0;">💡 About Me:</h2>
 
 - ✨ I build modern and responsive web applications  
 - 🚀 Passionate about frontend and UI development  
@@ -17,7 +17,7 @@
 
 ---
 
-<h2>🧩 Languages I Use:</h2>
+<h2 style="border-bottom:none; margin-bottom:0; padding-bottom:0;">🧩 Languages I Use:</h2>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,c" />
@@ -25,7 +25,7 @@
 
 ---
 
-<h2>🛠️ Tools & Technologies I Use:</h2>
+<h2 style="border-bottom:none; margin-bottom:0; padding-bottom:0;">🛠️ Tools & Technologies I Use:</h2>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=github,vscode" />
@@ -33,7 +33,7 @@
 
 ---
 
-<h2>🧑‍💻 Let's Connect</h2>
+<h2 style="border-bottom:none; margin-bottom:0; padding-bottom:0;">🧑‍💻 Let's Connect</h2>
 
 <p align="left">
    
@@ -48,7 +48,7 @@
 
 ---
 
-<h2>📊 GitHub Stats:</h2>
+<h2 style="border-bottom:none; margin-bottom:0; padding-bottom:0;">📊 GitHub Stats:</h2>
 
 <div align="center">
 
@@ -56,4 +56,4 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=salonifojdar27" height="180" />
 
-</div>
+</div>-->

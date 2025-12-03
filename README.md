@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saloni Fojdar</h1>
+<!--<h1 align="center">Hi 👋, I'm Saloni Fojdar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
@@ -20,8 +20,65 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salonifojdar27&show_icons=true&locale=en&layout=compact" alt="salonifojdar27" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salonifojdar27&show_icons=true&locale=en" alt="salonifojdar27" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salonifojdar27&" alt="salonifojdar27" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salonifojdar27&" alt="salonifojdar27" /></p>-->
 
 
+<h1 align="center">Hi 👋, I'm Saloni Fojdar</h1>
+<h3 align="center">A passionate Frontend Developer from India</h3>
+
+<img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+
+---
+
+## 💡 About Me
+
+- ✨ I build modern and responsive web applications  
+- 🚀 Passionate about frontend and UI development  
+- ⚡ Fun fact: I love solving real-world problems using code  
+- 🌱 Continuously exploring and learning modern technologies  
+- 🎯 Ambitious to achieve my goals  
+
+---
+
+## 🧩 Languages I Use
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,c" />
+</p>
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github,vscode" />
+</p>
+
+---
+
+## 🧑‍💻 Let's Connect
+
+<p align="left">
+
+<a href="mailto:salonifojdar27@gmail.com">
+  <img src="https://img.shields.io/badge/email-salonifojdar27%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/salonifojdar">
+  <img src="https://img.shields.io/badge/linkedin-salonifojdar-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
+
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=salonifojdar27&show_icons=true&locale=en&layout=compact" height="180" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=salonifojdar27" height="180" />
+
+</div>

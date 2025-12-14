@@ -33,7 +33,7 @@
 
 ---
 
-<h2 style="border-bottom:none; margin-bottom:0; padding-bottom:0;">🧑‍💻 Let's Connect</h2>
+<!-- <h2 style="border-bottom:none; margin-bottom:0; padding-bottom:0;">🧑‍💻 Let's Connect</h2>
 
 <p align="left">
    
@@ -43,10 +43,8 @@
 <a href="https://linkedin.com/in/saloni fojdar">
   <img src="https://img.shields.io/badge/LinkedIn-saloni fojdar-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
-</p>
+</p> -->
 
-
----
 
 <h2 style="border-bottom:none; margin-bottom:0; padding-bottom:0;">📊 GitHub Stats:</h2>
 
@@ -56,4 +54,4 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=salonifojdar27" height="180" />
 
-</div>-->
+</div>

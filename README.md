@@ -33,17 +33,17 @@
 
 ---
 
-<!-- <h2 style="border-bottom:none; margin-bottom:0; padding-bottom:0;">🧑‍💻 Let's Connect</h2>
+ <h2 style="border-bottom:none; margin-bottom:0; padding-bottom:0;">🧑‍💻 Let's Connect</h2>
 
 <p align="left">
    
-<a href="saloni.fojdar@example.com">
+<a href="mailto:salonifojdar@gmail.com">
   <img src="https://img.shields.io/badge/email-SALONIFOJDAR27@GMAIL.COM-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 <a href="https://linkedin.com/in/saloni fojdar">
   <img src="https://img.shields.io/badge/LinkedIn-saloni fojdar-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
-</p> -->
+</p>
 
 
 <h2 style="border-bottom:none; margin-bottom:0; padding-bottom:0;">📊 GitHub Stats:</h2>

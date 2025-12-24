@@ -38,7 +38,7 @@
 <p align="left">
    
 <a href="mailto:salonifojdar@gmail.com">
-  <img src="https://img.shields.io/badge/email-SALONIFOJDAR27@GMAIL.COM-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/email-salonifojdar@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 <a href="https://linkedin.com/in/saloni fojdar">
   <img src="https://img.shields.io/badge/LinkedIn-saloni fojdar-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>

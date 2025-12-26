@@ -41,17 +41,9 @@ src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gi
 ---
 
 ### 📫 Let's Connect:
-<!-- <p>
-  <a href="mailto:salonifojdar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-salonifojdar@gmail.com-red?style=square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/salonifojdar">
-    <img src="https://img.shields.io/badge/LinkedIn-Saloni%20Fojdar-blue?style=square&logo=linkedin&logoColor=white"/>
-  </a>
-</p> -->
 
 [![Email](https://img.shields.io/badge/Email-salonifojdar27@gmail.com-red?style=square&logo=gmail&logoColor=white)](mailto:salonifojdar27@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-salonifojdar-blue?style=square&logo=linkedin&logoColor=white)](https://linkedin.com/in/salonifojdar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-saloni fojdar-blue?style=square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saloni fojdar)
 
 ---
 

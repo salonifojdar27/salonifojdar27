@@ -1,57 +1,74 @@
 <h1 align="center">Hi 👋, I'm Saloni Fojdar</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">🚀A passionate Frontend Developer | Freelancer</h3>
 
-<img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+<p>
+  <img src="https://komarev.com/ghpvc/?username=salonifojdar27&label=Profile%20Views&color=0e75b6&style=flat" alt="salonifojdar27" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salonifojdar27&label=Profile%20views&color=0e75b6&style=flat" alt="salonifojdar27" /> </p>
-
-
-
-<h2 style="border-bottom:none; margin-bottom:0; padding-bottom:0;">💡 About Me:</h2>
-
-- ✨ I build modern and responsive web applications  
-- 🚀 Passionate about frontend and UI development  
-- ⚡ Fun fact: I love solving real-world problems using code  
-- 🌱 Continuously exploring and learning modern technologies  
-- 🎯 Ambitious to achieve my goals  
+<img align="right" alt="coding" width="350" 
+src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 ---
 
-<h2 style="border-bottom:none; margin-bottom:0; padding-bottom:0;">🧩 Languages I Use:</h2>
+### 💡 About Me:
+- ✨ I build **modern & responsive web applications**
+- 🎯 Passionate about **Frontend & UI Development**
+- 🌱 Continuously learning new **web technologies**
+- ⚡ Fun fact: I love solving **real-world problems with code**
+- 🚀 Ambitious and focused on achieving my goals
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,c" />
+---
+
+### 💻 Languages & Skills:
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" style="margin:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="margin:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="margin:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" style="margin:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" style="margin:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" style="margin:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" style="margin:10px"/>
 </p>
 
 ---
 
-<h2 style="border-bottom:none; margin-bottom:0; padding-bottom:0;">🛠️ Tools & Technologies I Use:</h2>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=github,vscode" />
+### 🛠 Tools & Technologies:
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="margin:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" style="margin:10px"/>
 </p>
 
 ---
 
- <h2 style="border-bottom:none; margin-bottom:0; padding-bottom:0;">🧑‍💻 Let's Connect</h2>
+### 📫 Let's Connect:
+<!-- <p>
+  <a href="mailto:salonifojdar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-salonifojdar@gmail.com-red?style=square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/salonifojdar">
+    <img src="https://img.shields.io/badge/LinkedIn-Saloni%20Fojdar-blue?style=square&logo=linkedin&logoColor=white"/>
+  </a>
+</p> -->
 
-<p align="left">
-   
-<a href="mailto:salonifojdar@gmail.com">
-  <img src="https://img.shields.io/badge/email-salonifojdar@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://linkedin.com/in/saloni fojdar">
-  <img src="https://img.shields.io/badge/LinkedIn-saloni fojdar-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+[![Email](https://img.shields.io/badge/Email-salonifojdar27@gmail.com-red?style=square&logo=gmail&logoColor=white)](mailto:salonifojdar27@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-salonifojdar-blue?style=square&logo=linkedin&logoColor=white)](https://linkedin.com/in/salonifojdar)
 
+---
+
+### 📈 GitHub Stats:
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=salonifojdar27&show_icons=true&theme=github_dark"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=salonifojdar27&theme=github-dark"/>
 </p>
 
+---
 
-<h2 style="border-bottom:none; margin-bottom:0; padding-bottom:0;">📊 GitHub Stats:</h2>
+<h2 align="left">🚀 My GitHub Journey</h2>
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=salonifojdar27&theme=react-dark&area=true&hide_border=true" 
+    alt="GitHub Activity Graph" 
+  />
+</p>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=salonifojdar27&show_icons=true&locale=en&layout=compact" height="180" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=salonifojdar27" height="180" />
-
-</div>
+🔗 *Explore my work at* **[github.com/salonifojdar27](https://github.com/salonifojdar27)**

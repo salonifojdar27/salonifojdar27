@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saloni Fojdar</h1>
-<h3 align="center">🚀A passionate Frontend Developer | Freelancer</h3>
+<h3 align="center">🚀A passionate Frontend Developer |👩‍💻 Freelancer</h3>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=salonifojdar27&label=Profile%20Views&color=0e75b6&style=flat" alt="salonifojdar27" />
